@@ -10,27 +10,8 @@ Information by ..........
 </head>
 <body>
     <header>
-        <h1>សួស្តី! ខ្ញុំឈ្មោះ Approve Yt</h1>
-    </header>
-
-    <main>
-        <section id="info">
-            <h2>ព័ត៌មានផ្ទាល់ខ្លួន</h2>
-            <p>ខ្ញុំជាអ្នកអភិវឌ្ឍន៍វេបសាយ និងចូលចិត្តបង្កើតរចនាបទថ្មីៗ។</p>
-        </section>
-
-        <section id="action">
-            <h2>ចុចប៊ូតុងនេះ</h2>
-            <button id="greetBtn">សួស្តីខ្ញុំ!</button>
-            <p id="greetMessage"></p>
-        </section>
-    </main>
-
-    <footer>
-        <p>© 2025 Approve Yt</p>
-    </footer>
-
-    <script src="script.js"></script>
+        <h1>សួស្តី! ខ្ញុំឈ្មោះ Vann RaSmarch</h1>
+    </header> 
 </body>
 </html>
 body {
